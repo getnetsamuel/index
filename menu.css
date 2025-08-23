@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+}
+
+header {
+  width: 100%;
+  color: goldenrod;
+  font-size: 300%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+  background-color: goldenrod;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+ul {
+  width: 100%;
+  padding-left: 0px;
+  align-items: center;
+}
+
+li {
+  height: 360px;
+  list-style-type: none;
+  border: 1px solid goldenrod;
+  border-radius: 10px;
+  background-color: #202020;
+  margin: 10% 0 5% 0;
+}
+
+
+h2 {
+  color: goldenrod;
+  text-align: right;
+  text-transform: uppercase;
+  margin: 10px 15px 10px 0;
+}
+p {
+  color: goldenrod;
+  font-weight: bold;
+  font-size: 130%;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 10px;
+}
+
+img {
+  margin: 0 10% 0 10%;
+  width: 80%;
+  height: 75%;
+}
