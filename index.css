@@ -58,7 +58,7 @@ li a {
   }
 }
 
-li:hover {
+li a:hover {
   color: goldenrod;
   background-color: dimgray;
 }
