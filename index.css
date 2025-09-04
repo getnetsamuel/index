@@ -3,7 +3,8 @@ body {
 }
 
 header {
-  color: goldenrod;
+  font-family: cursive;
+  color: darkgoldenrod;
   text-transform: uppercase;
   height: 200px;
   width: 100%;
@@ -40,7 +41,7 @@ ul {
 
 li a {
   text-decoration: none;
-  background-color: goldenrod;
+  background-color: darkgoldenrod;
   float: left;
   width: 46%;
   font-size: 150%;
@@ -59,7 +60,7 @@ li a {
 }
 
 li a:hover {
-  color: goldenrod;
+  color: darkgoldenrod;
   background-color: black;
 }
 
@@ -78,7 +79,7 @@ li a:hover {
 
 .description h2 {
   font-size: 30px;
-  color: goldenrod;
+  color: darkgoldenrod;
   text-align: center;
 }
 
@@ -90,7 +91,7 @@ li a:hover {
 
 .description p {
   font-size: 20px;
-  color: goldenrod;
+  color: darkgoldenrod;
   text-align: center;
   margin-bottom: 0;
 }
@@ -105,7 +106,7 @@ li a:hover {
   height: 450px;
   margin: 30px 0 0 0;
   box-sizing: border-box;
-  border: 2px solid goldenrod;
+  border: 1px solid darkgoldenrod;
   padding: 0 3%;
   text-align: justify;
 }
@@ -119,7 +120,7 @@ li a:hover {
 
 .service h2 {
   font-size: 30px;
-  color: goldenrod;
+  color: darkgoldenrod;
   text-align: center;
 }
 
@@ -135,7 +136,7 @@ li a:hover {
   display: inline-block;
   width: 95%;
   height: 100%;
-  color: goldenrod;
+  color: darkgoldenrod;
   font-size: 16px;
   text-align: justify;
   box-sizing: border-box;
@@ -171,7 +172,7 @@ img {
 }
 
 footer {
-  background-color: goldenrod;
+  background-color: darkgoldenrod;
   padding: 3%;
   margin-top: 7%;
 }
