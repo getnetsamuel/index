@@ -60,7 +60,7 @@ li a {
 
 li a:hover {
   color: goldenrod;
-  background-color: dimgray;
+  background-color: black;
 }
 
 .description {
